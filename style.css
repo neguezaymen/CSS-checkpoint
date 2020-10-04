@@ -1,4 +1,4 @@
-*{  margin: 0s;
+*{  margin: 0;
     padding: 0;
 
     list-style: none;
@@ -14,7 +14,7 @@ body{
 }
 nav{
     background: black;
-    height: 150px;
+    height: 100px;
     width: 100%;
     text-align: center;
     
@@ -67,13 +67,14 @@ nav ul li a:hover{
 .img-me{
     display: block;
     margin: auto;
+
     height: 457px;
     width: 422px;
-    background-image: url(img/me.tra.png);
+    background-image: url(img/me.trva.png);
     padding-top: 20px;
 }
 .img-me:hover {
-    background: url('img/me.trva.png');
+    background: url('img/me.tra.png');
     }
 
 
